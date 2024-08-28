@@ -3,7 +3,7 @@ import './App.css';
 import { EmployeeData } from './EmployeeData';
 import  'bootstrap/dist/css/bootstrap.css';
 
-
+//function
 function App() {
       const[data,setData] = useState([]);
       const[firstName,setFirstName] =useState('');
